@@ -1,0 +1,16 @@
+{
+  "name": "avalonbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "avalonBot.js",
+  "scripts": {
+    "start": "node avalonBot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "eris": "^0.11.2",
+    "express": "^4.17.1"
+  }
+}
